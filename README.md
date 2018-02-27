@@ -8,11 +8,11 @@ Never had a taco on the moon.
 - [x] Review Markdown syntax
 - [x] Read Clint Schmidt’s *essential tips* blog post
       1. Commit time
-         I plan to work at least 25 hours/week on the program
+         -I plan to work at least 25 hours/week on the program
       2. Avoid lulls
-	 I plan to work 5-6 days/week
+	 -I plan to work 5-6 days/week
       3. Good use of mentor
-	 I plan to prep for meetings with relevant questions & topics
+	 -I plan to prep for meetings with relevant questions & topics
       4. Roller coaster
 	 I’m great with the **ups** but not so good when it comes to bottoming-out during the **downs**, so I’ll have to work on perseverance through those periods.
       5. Foraging
