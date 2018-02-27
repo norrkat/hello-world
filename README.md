@@ -7,6 +7,7 @@ Never had a taco on the moon.
 - [x] Upload photo
 - [x] Review Markdown syntax
 - [x] Read Clint Schmidt’s *essential tips* blog post
+
           1. Commit time
            - I plan to work at least 25 hours/week on the program
 	  2. Avoid lulls
